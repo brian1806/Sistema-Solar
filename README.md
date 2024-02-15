@@ -39,4 +39,3 @@ Este é um código HTML e CSS que cria uma animação simples do sistema solar, 
 
 - Um ícone do favicon foi incluído, mas o link parece estar incorreto. Certifique-se de corrigir o URL para o ícone do favicon.
 
-Este é um projeto simples, mas você pode expandi-lo e personalizá-lo conforme necessário para criar animações mais complexas e realistas do sistema solar. Divirta-se explorando e aprendendo mais sobre animações em HTML e CSS!
