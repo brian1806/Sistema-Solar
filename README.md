@@ -31,11 +31,4 @@ Este é um código HTML e CSS que cria uma animação simples do sistema solar, 
 - O contêiner principal (`<div class="container">`) tem um tamanho fixo (`width: 40em; height: 40em;`) e é posicionado centralmente na tela.
 - A animação de órbita é definida pela regra `@keyframes orbit`.
 
-## Comentários
-
-- Existem comentários (comentados) no código original que foram deixados deliberadamente desativados. Se desejar, você pode remover os comentários no arquivo CSS para ver o código comentado.
-
-## Ícone do Favicon
-
-- Um ícone do favicon foi incluído, mas o link parece estar incorreto. Certifique-se de corrigir o URL para o ícone do favicon.
 
